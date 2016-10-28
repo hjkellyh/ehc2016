@@ -1,0 +1,7 @@
+1   提出问题（一周花费时间长的issue提出来讨论）
+2   Git （自己创建branch，学习各种操作，上传今天会议的document）
+3   主线 （写一个脚本反复刷一个页面/代理） 
+4    js debug , 以medicare为例,讲解一些页面资源，页面跳转的基本知识 (F12里面的console/network/source )
+5   了解backbone,babun
+6   下载代码
+
